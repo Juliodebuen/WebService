@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<catalog xmlns="urn:oasis:names:tc:entity:xmlns:xml:catalog" prefer="system">
+    <system systemId="file:/C:/Users/julio/OneDrive/UPCH/SistemasInteligentes/Corte3/WebService/Clasificador/src/java/Clasificador/ClasificadorWSDL.wsdl" uri="src/conf/xml-resources/web-services/ClasificadorService/wsdl/ClasificadorWSDL.wsdl"/>
+    <system systemId="file:/C:/Users/julio/OneDrive/UPCH/SistemasInteligentes/Corte3/WebService/Clasificador/src/java/Clasificador/schema.xsd" uri="src/conf/xml-resources/web-services/ClasificadorService/wsdl/schema.xsd"/>
+</catalog>
