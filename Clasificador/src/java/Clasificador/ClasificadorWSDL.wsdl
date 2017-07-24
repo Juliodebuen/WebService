@@ -52,7 +52,7 @@ made subject to such option by the copyright holder.
         </xsd:schema>
     </types>
     <message name="ClasificadorWSDLOperationRequest">
-        <part name="Image" element="ns:Imagen"/>
+        <part name="Imagen" element="ns:Imagen"/>
     </message>
     <message name="ClasificadorWSDLOperationResponse">
         <part name="Result" element="ns:Result"/>

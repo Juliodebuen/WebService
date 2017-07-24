@@ -47,6 +47,6 @@ made subject to such option by the copyright holder.
             targetNamespace="http://xml.netbeans.org/schema/schema"
     xmlns:tns="http://xml.netbeans.org/schema/schema"
     elementFormDefault="qualified">
-    <xsd:element name="Imagen" type="xsd:byte"/>
+    <xsd:element name="Imagen" type="xsd:string"/>
     <xsd:element name="Result" type="xsd:string"/>
 </xsd:schema>

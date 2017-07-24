@@ -14,9 +14,8 @@ import javax.jws.WebService;
 @WebService(serviceName = "ClasificadorWSDLService", portName = "ClasificadorWSDLPort", endpointInterface = "org.netbeans.j2ee.wsdl.clasificador.clasificador.clasificadorwsdl.ClasificadorWSDLPortType", targetNamespace = "http://j2ee.netbeans.org/wsdl/Clasificador/Clasificador/ClasificadorWSDL", wsdlLocation = "WEB-INF/wsdl/ClasificadorService/ClasificadorWSDL.wsdl")
 public class ClasificadorService {
 
-    public java.lang.String clasificadorWSDLOperation(byte image) {
-        //TODO implement this method
-        throw new UnsupportedOperationException("Not implemented yet.");
+    public java.lang.String clasificadorWSDLOperation(java.lang.String imagen) {
+        return "";
     }
     
 }
